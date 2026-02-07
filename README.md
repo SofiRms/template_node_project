@@ -26,19 +26,23 @@ Installation & Usage
 Follow these steps to use the template:
 
 1️⃣ Clone the repository
+```
 git clone https://github.com/SofiRms/template_node_project.git
-
+```
 
 Move into the project directory:
 
+```
 cd template_node_project
+```
 
 2️⃣ Install dependencies
+```
 npm install
+```
 
 3️⃣ Run the project
 
-
 ```
 npm run dev 
-
+```
