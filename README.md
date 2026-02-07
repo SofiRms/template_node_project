@@ -1,4 +1,4 @@
-# 🚀 Node.js Project Template
+# Node.js Project Template
 
 This repository is a **base template for Node.js projects**, designed to help you start new projects quickly, cleanly, and consistently.
 
